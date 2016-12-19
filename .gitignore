@@ -3,4 +3,5 @@
 /src/github.com
 /src/golang.org
 /src/sourcegraph.com
+/src/gopkg.in
 .vscode
